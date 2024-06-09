@@ -1,4 +1,4 @@
-TASK MANAGER - TO DO APP
+                        TASK MANAGER - TO DO APP
 FRONTEND 
     TECH STACK USED - React.js
     React.js is used to create responsive and interactive UI. 
